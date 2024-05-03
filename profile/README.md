@@ -5,4 +5,5 @@
 3. [Choreo Tutorial](https://github.com/wso2con2024/choreo-tutorial)
 4. [IAM Tutorial](https://github.com/wso2con2024/iam-tutorial)
 5. [Integration Tutorial](https://github.com/wso2con2024/integration-tutorial)
+6. [API Manager Tutorial](https://github.com/wso2con2024/apim-tutorial)
 
