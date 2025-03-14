@@ -2,6 +2,7 @@
 
 ### 2025 WSO2Con Tutorials - BCN
 1. [Integration Tutorial](https://github.com/wso2con/2025-BCN-integration-tutorial)
+2. [IAM Tutorial](https://github.com/wso2con/2025-BCN-iam-tutorial)
 
 ### 2024 WSO2Con Tutorials - MIA
 
