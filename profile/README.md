@@ -1,5 +1,11 @@
 ## Welcome to WSO2Con Tutorials 👋
 
+### 2025 WSO2Con Labs - CMB
+1. [API Manager Lab](https://github.com/wso2con/2025-CMB-apim-tutorial)
+2. [Integration Lab](https://github.com/wso2con/2025-CMB-integration-tutorial)
+3. [IAM Lab](https://github.com/wso2con/2025-CMB-iam-tutorial)
+4. [AI Lab](https://github.com/wso2con/2025-CMB-ai-tutorial)
+
 ### 2025 WSO2Con Tutorials - BCN
 1. [Integration Tutorial](https://github.com/wso2con/2025-BCN-integration-tutorial)
 2. [IAM Tutorial](https://github.com/wso2con/2025-BCN-iam-tutorial)
