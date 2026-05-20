@@ -1,10 +1,11 @@
 ## Welcome to WSO2Con Tutorials 👋
 
 ### 2026 WSO2Con Labs - AUS
-1. [Integration Lab 1](https://github.com/wso2con/2026-AUS-integration-tutorial-1)
-2. [AI Lab 2](https://github.com/wso2con/2026-AUS-AI-tutorial-2)
-3. [IAM Lab 1](https://github.com/wso2con/2026-AUS-iam-tutorial-1)
-4. [IAM Lab 2](https://github.com/wso2con/2026-AUS-iam-tutorial-2)
+1. [API Platform Lab](https://github.com/wso2con/2026-AUS-api-platform-tutorial)
+2. [Integration Lab 1](https://github.com/wso2con/2026-AUS-integration-tutorial-1)
+3. [AI Lab 2](https://github.com/wso2con/2026-AUS-AI-tutorial-2)
+4. [IAM Lab 1](https://github.com/wso2con/2026-AUS-iam-tutorial-1)
+5. [IAM Lab 2](https://github.com/wso2con/2026-AUS-iam-tutorial-2)
 
 ### 2025 WSO2Con Labs - CMB
 1. [API Manager Lab](https://github.com/wso2con/2025-CMB-apim-tutorial)
